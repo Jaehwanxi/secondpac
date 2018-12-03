@@ -1,0 +1,41 @@
+{
+  "squadName" : "Westworld",
+  "homeTown" : "Westworld",
+  "start" : 2016,
+  "Projectundertakingunit" : "HBO",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Dolores Abernathy",
+      "age" : "unkown",
+      "Personality" : "gender",
+      "duty" : [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name" : "Maeve Millay",
+      "age" : "unkown",
+      "Personality" : "uncontrol",
+      "duty" : [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name" : "Bernard Lowe",
+      "age" : "unkown",
+      "Personality" : "clever",
+      "duty" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
+}
