@@ -1,7 +1,7 @@
 {
-  "片名" : "西部世界",
-  "拍摄地点" : "加利福利亚",
-  "上映时间" : 2016,
+  "name" : "Super hero squad",
+  "Hometown" : "Metro City",
+  "Formed" : 2016,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
