@@ -7,7 +7,7 @@
   "members" : [
     {
       "name" : "多洛莉丝·亚伯纳西 ",
-      "性别" : "女",
+      "sex" : "女",
       "secretIdentity" : "none",
       "specialPoint" : [
         "美丽",
@@ -17,7 +17,7 @@
     },
     {
       "name" : "罗伯特·福特  ",
-      "性别" : "男",
+      "sex" : "男",
       "secretIdentity" : "none",
       "specialPoint" : [
         "沉默寡言",
@@ -27,7 +27,7 @@
     },
     {
       "name" : "伯纳德·劳  ",
-      "性别" : "男",
+      "sex" : "男",
       "secretIdentity" : "Unknown",
       "specialPoint" : [
         "同样是接待员",
