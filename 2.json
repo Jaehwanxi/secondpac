@@ -1,40 +1,38 @@
 {
-  "squadName" : "Super hero squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
+  "name" : "西部世界",
+  "site" : "加利福利亚",
+  "time" : 2016,
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
-      "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+      "name" : "多洛莉丝·亚伯纳西 ",
+      "性别" : "女",
+      "secretIdentity" : "none",
+      "specialPoint" : [
+        "美丽",
+        "善良",
+        "性格偏执"
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+      "name" : "罗伯特·福特  ",
+      "性别" : "男",
+      "secretIdentity" : "none",
+      "specialPoint" : [
+        "沉默寡言",
+        "性情复杂",
+        "对园区有自己坚定不移的目标"
       ]
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
+      "name" : "伯纳德·劳  ",
+      "性别" : "男",
       "secretIdentity" : "Unknown",
-      "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+      "specialPoint" : [
+        "同样是接待员",
+        "西部世界规划师",
+       
       ]
     }
   ]
